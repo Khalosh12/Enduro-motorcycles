@@ -1,0 +1,69 @@
+
+p
+java:S1192p"NDefine a constant instead of duplicating this literal "Windows-1251" 10 times.(Σ¤Αϋÿÿÿÿ8φνωΏΥ1
+k
+java:S1192p"IDefine a constant instead of duplicating this literal "os.name" 10 times.(Σ¤Αϋÿÿÿÿ8χνωΏΥ1
+i
+java:S1192q"GDefine a constant instead of duplicating this literal "UTF-8" 10 times.(φθό‚ϊÿÿÿÿ8χνωΏΥ1
+‘
+java:S1192n"oDefine a constant instead of duplicating this literal "Π’Π²ΠµΠ΄Ρ–Ρ‚Ρ Π½Π°Π·Π²Ρƒ ΠΌΠΎΡ‚ΠΎΡ†ΠΈΠΊΠ»Ρƒ: " 3 times.(ήυΝψÿÿÿÿ8χνωΏΥ1
+‘
+java:S1192X"oDefine a constant instead of duplicating this literal "ΠΠΎΠΌΠΈΠ»ΠΊΠ°, ΡΠΏΡ€ΠΎΠ±ΡƒΠΉΡ‚Πµ Ρ‰Πµ Ρ€Π°Π·" 7 times.(¦‡άόÿÿÿÿ8χνωΏΥ1
+L	java:S106#"+Replace this use of System.out by a logger.(ΰε·ώÿÿÿÿ8πωΏΥ1
+G	java:S106%"+Replace this use of System.out by a logger.(Ζΐϋύ8‰πωΏΥ1
+T
+java:S6126&"2Replace this String concatenation with Text block.(β“Χ½όÿÿÿÿ8‰πωΏΥ1
+L	java:S106("+Replace this use of System.out by a logger.(―φύÿÿÿÿ8‰πωΏΥ1
+L	java:S106K"+Replace this use of System.out by a logger.(θΟθΜψÿÿÿÿ8‹πωΏΥ1
+G	java:S106O"+Replace this use of System.out by a logger.(†…ψ’8‹πωΏΥ1
+L	java:S106P"+Replace this use of System.out by a logger.(ύΏ³ύÿÿÿÿ8‹πωΏΥ1
+G	java:S106Q"+Replace this use of System.out by a logger.(‘―Αδ8‹πωΏΥ1
+L	java:S106X"+Replace this use of System.out by a logger.(¦‡άόÿÿÿÿ8‹πωΏΥ1
+L	java:S106a"+Replace this use of System.out by a logger.(ΎκΝƒÿÿÿÿÿ8πωΏΥ1
+G	java:S106c"+Replace this use of System.out by a logger.(«Δ°8πωΏΥ1
+F	java:S106i"+Replace this use of System.out by a logger.(µΝΠB8πωΏΥ1
+L	java:S106n"+Replace this use of System.out by a logger.(ήυΝψÿÿÿÿ8πωΏΥ1
+L	java:S106u"+Replace this use of System.out by a logger.(Ξ¥δÒÿÿÿÿÿ8πωΏΥ1
+L	java:S106v"+Replace this use of System.out by a logger.(΄ιεΩωÿÿÿÿ8πωΏΥ1
+L	java:S106z"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8πωΏΥ1
+L	java:S106|"+Replace this use of System.out by a logger.(¦‡άόÿÿÿÿ8πωΏΥ1
+M	java:S106"+Replace this use of System.out by a logger.(”φ¬ωÿÿÿÿ8πωΏΥ1
+H	java:S106‰"+Replace this use of System.out by a logger.(²Ϋ““8πωΏΥ1
+G	java:S106‹"+Replace this use of System.out by a logger.(Ό™8πωΏΥ1
+M	java:S106"+Replace this use of System.out by a logger.(’Ρϊÿÿÿÿ8πωΏΥ1
+M	java:S106–"+Replace this use of System.out by a logger.(¥σέμψÿÿÿÿ8πωΏΥ1
+H	java:S106"+Replace this use of System.out by a logger.(βΥ“Ώ8πωΏΥ1
+M	java:S106΅"+Replace this use of System.out by a logger.(Χπ§ύÿÿÿÿ8‘πωΏΥ1
+H	java:S106«"+Replace this use of System.out by a logger.(ά¥Μ8’πωΏΥ1
+H	java:S106­"+Replace this use of System.out by a logger.(»€Ό8’πωΏΥ1
+M	java:S106°"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8’πωΏΥ1
+M	java:S106²"+Replace this use of System.out by a logger.(¦‡άόÿÿÿÿ8’πωΏΥ1
+G	java:S106Έ"+Replace this use of System.out by a logger.(ϊ©µ/8’πωΏΥ1
+M	java:S106ΐ"+Replace this use of System.out by a logger.(†ƒµΨόÿÿÿÿ8“πωΏΥ1
+M	java:S106Γ"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8“πωΏΥ1
+M	java:S106Ε"+Replace this use of System.out by a logger.(¦‡άόÿÿÿÿ8“πωΏΥ1
+u
+java:S3776Ι"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(οÒσ‰ÿÿÿÿÿ8”πωΏΥ1
+M	java:S106Ν"+Replace this use of System.out by a logger.(”φ¬ωÿÿÿÿ8•πωΏΥ1
+M	java:S106Ρ"+Replace this use of System.out by a logger.(ΥψΉΤώÿÿÿÿ8•πωΏΥ1
+M	java:S106Τ"+Replace this use of System.out by a logger.(ένÒ»ϋÿÿÿÿ8•πωΏΥ1
+H	java:S106Ϋ"+Replace this use of System.out by a logger.(²Ϋ““8–πωΏΥ1
+G	java:S106έ"+Replace this use of System.out by a logger.(Ό™8–πωΏΥ1
+M	java:S106ΰ"+Replace this use of System.out by a logger.(ΎΦΉγϊÿÿÿÿ8–πωΏΥ1
+H	java:S106θ"+Replace this use of System.out by a logger.(Ζωαό8—πωΏΥ1
+H	java:S106κ"+Replace this use of System.out by a logger.(βΥ“Ώ8—πωΏΥ1
+M	java:S106μ"+Replace this use of System.out by a logger.(ΊΈΗόÿÿÿÿ8—πωΏΥ1
+M	java:S106σ"+Replace this use of System.out by a logger.(Χπ§ύÿÿÿÿ8πωΏΥ1
+H	java:S106€"+Replace this use of System.out by a logger.(ΐÒª”8πωΏΥ1
+M	java:S106ƒ"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8πωΏΥ1
+M	java:S106…"+Replace this use of System.out by a logger.(¦‡άόÿÿÿÿ8πωΏΥ1
+H	java:S106"+Replace this use of System.out by a logger.(Α­α§8™πωΏΥ1
+H	java:S106’"+Replace this use of System.out by a logger.(«Δ°8™πωΏΥ1
+M	java:S106"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8πωΏΥ1
+M	java:S106"+Replace this use of System.out by a logger.(¦‡άόÿÿÿÿ8πωΏΥ1
+M	java:S106"+Replace this use of System.out by a logger.(μ»Ϋ‚ώÿÿÿÿ8›πωΏΥ1
+H	java:S106§"+Replace this use of System.out by a logger.(«Δ°8›πωΏΥ1
+M	java:S106­"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8πωΏΥ1
+M	java:S106―"+Replace this use of System.out by a logger.(¦‡άόÿÿÿÿ8πωΏΥ1
+|
+java:S1128"ZRemove this unused import 'com.pomolex.enduromotorcycleguide.domain.dto.SuspensionAddDto'.(ΧΟÿΖϋÿÿÿÿ8πωΏΥ1

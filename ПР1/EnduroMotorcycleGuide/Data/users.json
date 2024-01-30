@@ -1,0 +1,14 @@
+[
+  {
+    "password": "$2a$10$a5IRmme0b/juK8C9ASrL9u3a28uACGqJHk65QUXfjpb1EiluDunpi",
+    "email": "footbrot@gmail.com",
+    "username": "Khalosh",
+    "id": "9eb4ade7-4d8f-4d06-95c0-055ef233d512"
+  },
+  {
+    "password": "$2a$10$OTXa6WVFVp/UkPIraGd.Je6zjgmsvMsUXZ/qRRgytjBBfcss6N5ky",
+    "email": "to@example.com",
+    "username": "Test12",
+    "id": "63c3ad4b-b275-4329-910c-7375bd6ea506"
+  }
+]

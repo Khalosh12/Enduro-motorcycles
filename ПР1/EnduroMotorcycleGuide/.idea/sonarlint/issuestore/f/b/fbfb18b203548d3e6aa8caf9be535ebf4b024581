@@ -1,0 +1,50 @@
+
+o
+java:S1192a"MDefine a constant instead of duplicating this literal "Windows-1251" 4 times.(Ó¤Áûÿÿÿÿ8áÍı¿Õ1
+‹
+java:S1192_"iDefine a constant instead of duplicating this literal "Ğ’Ğ²ĞµĞ´Ñ–Ñ‚ÑŒ Ñ‚Ğ¸Ğ¿ Ğ¿Ñ–Ğ´Ğ²Ñ–ÑĞºĞ¸: " 3 times.(¥óİìøÿÿÿÿ8öùç½Õ1
+j
+java:S1192a"HDefine a constant instead of duplicating this literal "os.name" 4 times.(Ó¤Áûÿÿÿÿ8áÍı¿Õ1
+h
+java:S1192b"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(öèü‚úÿÿÿÿ8áÍı¿Õ1
+‘
+java:S1192J"oDefine a constant instead of duplicating this literal "ĞŸĞ¾Ğ¼Ğ¸Ğ»ĞºĞ°, ÑĞ¿Ñ€Ğ¾Ğ±ÑƒĞ¹Ñ‚Ğµ Ñ‰Ğµ Ñ€Ğ°Ğ·" 5 times.(¦‡Üüÿÿÿÿ8öùç½Õ1
+L	java:S106"+Replace this use of System.out by a logger.(àå·şÿÿÿÿ8ûç½Õ1
+G	java:S106"+Replace this use of System.out by a logger.(ÆÀûı8ûç½Õ1
+L	java:S106 "+Replace this use of System.out by a logger.(¯öˆŸıÿÿÿÿ8ûç½Õ1
+G	java:S106="+Replace this use of System.out by a logger.(ÁÜÃ‘8¢ûç½Õ1
+G	java:S106A"+Replace this use of System.out by a logger.(†…ø’8¢ûç½Õ1
+L	java:S106B"+Replace this use of System.out by a logger.(ı¿³Ÿıÿÿÿÿ8¢ûç½Õ1
+G	java:S106C"+Replace this use of System.out by a logger.(‘¯Áä8¢ûç½Õ1
+L	java:S106J"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8¢ûç½Õ1
+L	java:S106S"+Replace this use of System.out by a logger.(¬½›ıÿÿÿÿÿ8¢ûç½Õ1
+G	java:S106U"+Replace this use of System.out by a logger.(©‹¦ª8¢ûç½Õ1
+G	java:S106Z"+Replace this use of System.out by a logger.(ÆæÂÊ8¢ûç½Õ1
+L	java:S106_"+Replace this use of System.out by a logger.(¥óİìøÿÿÿÿ8¦ûç½Õ1
+G	java:S106f"+Replace this use of System.out by a logger.(Ø«¢¡8¦ûç½Õ1
+G	java:S106g"+Replace this use of System.out by a logger.(âÕ“¿8¦ûç½Õ1
+L	java:S106i"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¦ûç½Õ1
+L	java:S106k"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8¦ûç½Õ1
+G	java:S106p"+Replace this use of System.out by a logger.(Şí©£8¦ûç½Õ1
+L	java:S106w"+Replace this use of System.out by a logger.(³©±¾ıÿÿÿÿ8¦ûç½Õ1
+G	java:S106~"+Replace this use of System.out by a logger.(‘É³Ä8¦ûç½Õ1
+H	java:S106€"+Replace this use of System.out by a logger.(’µµü8¦ûç½Õ1
+M	java:S106ƒ"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¦ûç½Õ1
+M	java:S106…"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8ªûç½Õ1
+M	java:S106‹"+Replace this use of System.out by a logger.(Ò¡ìğüÿÿÿÿ8ªûç½Õ1
+M	java:S106“"+Replace this use of System.out by a logger.(†ƒµØüÿÿÿÿ8ªûç½Õ1
+M	java:S106•"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ªûç½Õ1
+M	java:S106—"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8ªûç½Õ1
+M	java:S106"+Replace this use of System.out by a logger.(Ò¡ìğüÿÿÿÿ8ªûç½Õ1
+H	java:S106¢"+Replace this use of System.out by a logger.(ô…”¼8ªûç½Õ1
+H	java:S106¥"+Replace this use of System.out by a logger.(ú€ƒû8ªûç½Õ1
+M	java:S106ª"+Replace this use of System.out by a logger.(‘Õ²àúÿÿÿÿ8¯ûç½Õ1
+H	java:S106³"+Replace this use of System.out by a logger.(ÀÒª”8¯ûç½Õ1
+M	java:S106µ"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¯ûç½Õ1
+M	java:S106·"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8¯ûç½Õ1
+y
+java:S1128"\Remove this unused import 'com.pomolex.enduromotorcycleguide.domain.contract.EngineService'.(äÀÍŒ8¯ûç½Õ1
+r
+java:S1128"VRemove this unused import 'com.pomolex.enduromotorcycleguide.domain.dto.EngineAddDto'.(´§48¯ûç½Õ1
+
+java:S1128"]Remove this unused import 'com.pomolex.enduromotorcycleguide.persistence.entity.impl.Engine'.(¸Ä×šÿÿÿÿÿ8¯ûç½Õ1

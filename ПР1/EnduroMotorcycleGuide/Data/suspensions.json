@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Тестова2",
+    "suspensionTravel": 100.0,
+    "id": "a5d38e53-a447-4a75-a29d-ab0f9d2bac0d"
+  },
+  {
+    "type": "Showa",
+    "suspensionTravel": 305.0,
+    "id": "27a2f651-5709-408e-bc10-8a81fc82be31"
+  },
+  {
+    "type": "WP XPLOR",
+    "suspensionTravel": 245.0,
+    "id": "601e013f-35b1-4204-ba81-05d5b6ac0b88"
+  },
+  {
+    "type": "KYB",
+    "suspensionTravel": 310.0,
+    "id": "51541fa1-deef-4d70-a684-e032e4c28115"
+  },
+  {
+    "type": " WP XPLOR",
+    "suspensionTravel": 300.0,
+    "id": "0722948d-6388-4572-896f-793779dd94fb"
+  },
+  {
+    "type": "Sachs",
+    "suspensionTravel": 300.0,
+    "id": "f8585b45-26b9-406c-b422-8768569fd795"
+  }
+]

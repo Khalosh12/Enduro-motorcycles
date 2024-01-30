@@ -1,0 +1,22 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÑÙãöüÿÿÿÿ8ß¦á»Õ1
+L	java:S106"+Replace this use of System.out by a logger.(Á¾éËúÿÿÿÿ8ß¦á»Õ1
+L	java:S106$"+Replace this use of System.out by a logger.(ãÑ™ùÿÿÿÿ8ã¦á»Õ1
+L	java:S106'"+Replace this use of System.out by a logger.(Ù–¡¾ùÿÿÿÿ8ã¦á»Õ1
+L	java:S106/"+Replace this use of System.out by a logger.(Ù¬ÉÁùÿÿÿÿ8ç¦á»Õ1
+G	java:S1064"+Replace this use of System.out by a logger.(É±†Ì8ç¦á»Õ1
+G	java:S106<"+Replace this use of System.out by a logger.(ÆÀûı8ç¦á»Õ1
+N
+java:S6126="2Replace this String concatenation with Text block.(Õ¿Æ	8ç¦á»Õ1
+L	java:S106B"+Replace this use of System.out by a logger.(§Ø³ÿÿÿÿÿ8ç¦á»Õ1
+L	java:S106E"+Replace this use of System.out by a logger.(ŸÅüèşÿÿÿÿ8ç¦á»Õ1
+G	java:S106G"+Replace this use of System.out by a logger.(²³Ğ8ç¦á»Õ1
+n
+java:S5998O"LRefactor this repetition that can lead to a stack overflow for large inputs.(ôœû‰ùÿÿÿÿ8ë¦á»Õ1
+‚
+java:S1128"`Remove this unused import 'com.pomolex.enduromotorcycleguide.persistence.entity.ErrorTemplates'.(•ÁËüüÿÿÿÿ8ï¦á»Õ1
+Y
+java:S1128"7Remove this unused import 'org.mindrot.jbcrypt.BCrypt'.(‡êÑ“ıÿÿÿÿ8ï¦á»Õ1
+Q
+java:S1068"/Remove this unused "userService" private field.(ÇêŞ¢ıÿÿÿÿ8ï¦á»Õ1

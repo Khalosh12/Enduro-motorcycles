@@ -1,0 +1,52 @@
+
+o
+java:S1192b"MDefine a constant instead of duplicating this literal "Windows-1251" 4 times.(Ó¤Áûÿÿÿÿ8×ûú¿Õ1
+j
+java:S1192b"HDefine a constant instead of duplicating this literal "os.name" 4 times.(Ó¤Áûÿÿÿÿ8×ûú¿Õ1
+h
+java:S1192c"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(öèü‚úÿÿÿÿ8×ûú¿Õ1
+‘
+java:S1192K"oDefine a constant instead of duplicating this literal "ĞŸĞ¾Ğ¼Ğ¸Ğ»ĞºĞ°, ÑĞ¿Ñ€Ğ¾Ğ±ÑƒĞ¹Ñ‚Ğµ Ñ‰Ğµ Ñ€Ğ°Ğ·" 6 times.(¦‡Üüÿÿÿÿ8Äôå½Õ1
+L	java:S106"+Replace this use of System.out by a logger.(àå·şÿÿÿÿ8ğõå½Õ1
+L	java:S106"+Replace this use of System.out by a logger.(şÓôìùÿÿÿÿ8ğõå½Õ1
+T
+java:S6126"2Replace this String concatenation with Text block.(şÓôìùÿÿÿÿ8ğõå½Õ1
+L	java:S106"+Replace this use of System.out by a logger.(¯öˆŸıÿÿÿÿ8ğõå½Õ1
+F	java:S106>"+Replace this use of System.out by a logger.(º¹ïN8ğõå½Õ1
+G	java:S106B"+Replace this use of System.out by a logger.(†…ø’8ğõå½Õ1
+L	java:S106C"+Replace this use of System.out by a logger.(ı¿³Ÿıÿÿÿÿ8ğõå½Õ1
+G	java:S106D"+Replace this use of System.out by a logger.(‘¯Áä8ğõå½Õ1
+L	java:S106K"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8ôõå½Õ1
+L	java:S106T"+Replace this use of System.out by a logger.(¡¦ÃÒüÿÿÿÿ8ôõå½Õ1
+G	java:S106V"+Replace this use of System.out by a logger.(ÏÑ«ñ8ôõå½Õ1
+L	java:S106["+Replace this use of System.out by a logger.(¤ŠÌïıÿÿÿÿ8ôõå½Õ1
+L	java:S106`"+Replace this use of System.out by a logger.(ÁÁ‘¿şÿÿÿÿ8ôõå½Õ1
+G	java:S106g"+Replace this use of System.out by a logger.(Ñë”¸8ôõå½Õ1
+F	java:S106h"+Replace this use of System.out by a logger.(¼™8ôõå½Õ1
+L	java:S106k"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ôõå½Õ1
+L	java:S106m"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8ôõå½Õ1
+G	java:S106r"+Replace this use of System.out by a logger.(ääş„8øõå½Õ1
+G	java:S106y"+Replace this use of System.out by a logger.(ÿù8øõå½Õ1
+F	java:S106|"+Replace this use of System.out by a logger.(âƒo8øõå½Õ1
+H	java:S106„"+Replace this use of System.out by a logger.(‘É³Ä8úõå½Õ1
+M	java:S106†"+Replace this use of System.out by a logger.(ï›‚úÿÿÿÿ8úõå½Õ1
+M	java:S106‰"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8úõå½Õ1
+M	java:S106‹"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8úõå½Õ1
+M	java:S106‘"+Replace this use of System.out by a logger.(’ÑŒúÿÿÿÿ8úõå½Õ1
+M	java:S106™"+Replace this use of System.out by a logger.(†ƒµØüÿÿÿÿ8úõå½Õ1
+M	java:S106›"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8úõå½Õ1
+M	java:S106¢"+Replace this use of System.out by a logger.(’ÑŒúÿÿÿÿ8úõå½Õ1
+M	java:S106¦"+Replace this use of System.out by a logger.(èÉ¯Ìüÿÿÿÿ8şõå½Õ1
+M	java:S106©"+Replace this use of System.out by a logger.(İíÒ»ûÿÿÿÿ8şõå½Õ1
+H	java:S106¯"+Replace this use of System.out by a logger.(Øáã¾8şõå½Õ1
+G	java:S106³"+Replace this use of System.out by a logger.(âƒo8şõå½Õ1
+H	java:S106½"+Replace this use of System.out by a logger.(ÀÒª”8şõå½Õ1
+M	java:S106¿"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8şõå½Õ1
+M	java:S106Á"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8şõå½Õ1
+M	java:S106Æ"+Replace this use of System.out by a logger.(°ƒÇµÿÿÿÿÿ8şõå½Õ1
+M	java:S106Í"+Replace this use of System.out by a logger.(¡¦ÃÒüÿÿÿÿ8şõå½Õ1
+H	java:S106Ï"+Replace this use of System.out by a logger.(ÏÑ«ñ8şõå½Õ1
+H	java:S106Ô"+Replace this use of System.out by a logger.(Ûéåƒ8‚öå½Õ1
+M	java:S106×"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8‚öå½Õ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8‚öå½Õ1

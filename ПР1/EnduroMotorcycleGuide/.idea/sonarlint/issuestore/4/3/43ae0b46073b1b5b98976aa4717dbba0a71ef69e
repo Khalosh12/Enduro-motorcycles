@@ -1,0 +1,14 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.(û«”8ï‘Õ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÌğßØùÿÿÿÿ8ğ‘Õ1
+T
+java:S1135"2Complete the task associated to this TODO comment.(ÌğßØùÿÿÿÿ8ğ‘Õ1
+]	java:S125"<This block of commented-out lines of code should be removed.(‚ÍÁÃıÿÿÿÿ8ñ‘Õ1
+T
+java:S1135"2Complete the task associated to this TODO comment.(‚ÍÁÃıÿÿÿÿ8ñ‘Õ1
+_
+java:S6353?"CUse concise character class syntax '\\w' instead of '[a-zA-Z0-9_]'.(¤…8‚‘‘Õ1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ˆ‘‘Õ1
+X
+java:S1144K"6Remove this unused private "validatedPassword" method.(û¯¤¬ıÿÿÿÿ8ˆ‘‘Õ1

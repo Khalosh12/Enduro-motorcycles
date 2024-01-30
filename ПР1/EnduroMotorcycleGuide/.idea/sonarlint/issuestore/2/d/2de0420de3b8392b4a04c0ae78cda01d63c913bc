@@ -1,0 +1,11 @@
+
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(÷ùç8ğ×ÓıÔ1
+\
+java:S1854"?Remove this useless assignment to local variable "authService".(š¹Ğ°8íØ¾Õ1
+M
+java:S1481"0Remove this unused "authService" local variable.(š¹Ğ°8ñØ¾Õ1
+]	java:S125"<This block of commented-out lines of code should be removed.(‡Ô×Åúÿÿÿÿ8Ãˆ§”Õ1
+]
+java:S1128";Remove this unused import 'org.fusesource.jansi.Ansi.ansi'.(³á¥ùÿÿÿÿ8¦–¦”Õ1

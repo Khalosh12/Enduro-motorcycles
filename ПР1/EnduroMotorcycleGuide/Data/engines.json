@@ -1,0 +1,74 @@
+[
+  {
+    "name": "KTM 250 EXC TPI",
+    "capacity": 250,
+    "isTwoStroke": true,
+    "id": "1cd183c7-249b-478d-93f5-5260dfd432b6"
+  },
+  {
+    "name": "Honda CRF450L",
+    "capacity": 450,
+    "isTwoStroke": false,
+    "id": "594f3b42-bf04-4bf1-8b1c-865b6bccf858"
+  },
+  {
+    "name": "Husqvarna TE 300i",
+    "capacity": 300,
+    "isTwoStroke": true,
+    "id": "63a441e2-8e53-48a6-98ef-6e72a0f9fa3e"
+  },
+  {
+    "name": "Husqvarna TE 250i",
+    "capacity": 250,
+    "isTwoStroke": true,
+    "id": "8a252957-71ce-4606-8c61-0a61c4dc0292"
+  },
+  {
+    "name": "Тестовий",
+    "capacity": 100,
+    "isTwoStroke": true,
+    "id": "f6f8bf37-083a-4495-9802-b9bd95101b66"
+  },
+  {
+    "name": "Beta 250 RR",
+    "capacity": 250,
+    "isTwoStroke": true,
+    "id": "49c7e36e-e10a-4949-a8c7-645707855d86"
+  },
+  {
+    "name": "Beta 300 RR",
+    "capacity": 300,
+    "isTwoStroke": true,
+    "id": "13f98330-ee59-44ff-8b5f-d3bf9e526fe8"
+  },
+  {
+    "name": "Тестовий2",
+    "capacity": 103,
+    "isTwoStroke": true,
+    "id": "f152ce1b-984a-4cc4-b51d-5285139e208b"
+  },
+  {
+    "name": "KTM 300 EXC TPI",
+    "capacity": 300,
+    "isTwoStroke": true,
+    "id": "421cd012-9413-4b68-8a7d-22c08f7697ca"
+  },
+  {
+    "name": "Yamaha WR450F",
+    "capacity": 450,
+    "isTwoStroke": false,
+    "id": "09abe613-e3cd-447e-a075-ca31de6a8b4f"
+  },
+  {
+    "name": "Yamaha WR250F",
+    "capacity": 250,
+    "isTwoStroke": false,
+    "id": "e1bc36e3-1188-42ef-85bf-585061e38b79"
+  },
+  {
+    "name": "Honda CRF250L",
+    "capacity": 250,
+    "isTwoStroke": false,
+    "id": "2893c005-3562-4068-846e-45c70a2d3c7a"
+  }
+]

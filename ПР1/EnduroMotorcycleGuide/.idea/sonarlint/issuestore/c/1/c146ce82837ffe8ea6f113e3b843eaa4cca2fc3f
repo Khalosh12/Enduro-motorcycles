@@ -1,0 +1,11 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(Ä¬áÂ8ëÛ¥‘Õ1
+G	java:S106"+Replace this use of System.out by a logger.(ÆÀûı8ëÛ¥‘Õ1
+L	java:S106"+Replace this use of System.out by a logger.(¯öˆŸıÿÿÿÿ8ëÛ¥‘Õ1
+L	java:S106+"+Replace this use of System.out by a logger.(›Ñõßûÿÿÿÿ8ïÛ¥‘Õ1
+G	java:S106."+Replace this use of System.out by a logger.(†…ø’8ïÛ¥‘Õ1
+L	java:S106/"+Replace this use of System.out by a logger.(ı¿³Ÿıÿÿÿÿ8ïÛ¥‘Õ1
+G	java:S1060"+Replace this use of System.out by a logger.(‘¯Áä8ïÛ¥‘Õ1
+L	java:S1067"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8ğÛ¥‘Õ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8–ÄÂ»Õ1

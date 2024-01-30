@@ -1,0 +1,8 @@
+package com.pomolex.enduromotorcycleguide.domain.exception;
+
+public class EntityNotFoundException extends RuntimeException{
+  public EntityNotFoundException(String message) {
+    super(message);
+  }
+
+}

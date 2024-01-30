@@ -1,0 +1,13 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(Úö‘ëüÿÿÿÿ8ØœÀ“Õ1
+L	java:S106"+Replace this use of System.out by a logger.(áÚÌÁùÿÿÿÿ8ÙœÀ“Õ1
+L	java:S106"+Replace this use of System.out by a logger.(¯öˆŸıÿÿÿÿ8ÙœÀ“Õ1
+G	java:S1062"+Replace this use of System.out by a logger.(¢ÿÉ²8ÜœÀ“Õ1
+G	java:S1065"+Replace this use of System.out by a logger.(†…ø’8ÜœÀ“Õ1
+L	java:S1066"+Replace this use of System.out by a logger.(ı¿³Ÿıÿÿÿÿ8ÜœÀ“Õ1
+G	java:S1067"+Replace this use of System.out by a logger.(‘¯Áä8ÜœÀ“Õ1
+L	java:S106?"+Replace this use of System.out by a logger.(¦‡Üüÿÿÿÿ8İœÀ“Õ1
+ƒ
+java:S1128"aRemove this unused import 'com.pomolex.enduromotorcycleguide.persistence.entity.impl.Suspension'.(Ô×µšûÿÿÿÿ8ø—™¼Õ1
+’
+java:S1128	"pRemove this unused import 'com.pomolex.enduromotorcycleguide.persistence.repository.contracts.EngineRepository'.(Í´Ÿûúÿÿÿÿ8ø—™¼Õ1

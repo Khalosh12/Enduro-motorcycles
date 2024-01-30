@@ -1,0 +1,13 @@
+com.pomolex.enduromotorcycleguide
+com.pomolex.enduromotorcycleguide.appui
+com.pomolex.enduromotorcycleguide.domain
+com.pomolex.enduromotorcycleguide.domain.contract
+com.pomolex.enduromotorcycleguide.domain.dto
+com.pomolex.enduromotorcycleguide.domain.exception
+com.pomolex.enduromotorcycleguide.domain.impl
+com.pomolex.enduromotorcycleguide.persistence.entity
+com.pomolex.enduromotorcycleguide.persistence.entity.impl
+com.pomolex.enduromotorcycleguide.persistence.exception
+com.pomolex.enduromotorcycleguide.persistence.repository
+com.pomolex.enduromotorcycleguide.persistence.repository.contracts
+com.pomolex.enduromotorcycleguide.persistence.repository.impl.json
